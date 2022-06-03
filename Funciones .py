@@ -1,4 +1,6 @@
-def funtion(nombre) :
-    print(nombre)
+# Funciones 
 
-funtion("Hola soy Elias del Curso de Innovaccion")
+def funcion(nombre) :                  # En esta pare definimos una función con la palabra reservada def
+    print(nombre)                      # Imprimimos 
+
+funcion("Elias") #Ponemos los atributos 
